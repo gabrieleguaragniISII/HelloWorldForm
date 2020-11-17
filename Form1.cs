@@ -21,7 +21,7 @@ namespace HelloWorldForm
         {
             MessageBox.Show("Hello World");
 
-            MessageBox.Show("Come Stai?");
+            MessageBox.Show("Tutto bene?");
         }
     }
 }
