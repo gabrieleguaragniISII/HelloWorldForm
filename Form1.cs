@@ -20,6 +20,8 @@ namespace HelloWorldForm
         private void btn_hello_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World");
+
+            MessageBox.Show("Come Stai?");
         }
     }
 }
